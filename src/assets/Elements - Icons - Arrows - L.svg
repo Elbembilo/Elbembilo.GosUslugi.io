@@ -1,0 +1,16 @@
+<svg id="Elements_Icons_Arrows_L_" data-name="Elements / Icons / Arrows / L " xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M0,18.729l8.107-7.94L0,2.849,2.906,0,13.941,10.789,2.906,21.578Z" transform="translate(0 0)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="right_big">
+    <path id="Rectangle" d="M0,0H32V32H0Z" fill="none"/>
+    <path id="Mask-2" data-name="Mask" d="M0,18.729l8.107-7.94L0,2.849,2.906,0,13.941,10.789,2.906,21.578Z" transform="translate(9.333 5.333)" fill="#fff"/>
+    <g id="right_big-2" data-name="right_big" transform="translate(9.333 5.333)" clip-path="url(#clip-path)">
+      <g id="Color" transform="translate(-9.333 -5.333)">
+        <path id="Rectangle_4_Copy_11" data-name="Rectangle 4 Copy 11" d="M4,0H28a4,4,0,0,1,4,4V28a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" fill="#c7ccd1"/>
+      </g>
+    </g>
+  </g>
+</svg>

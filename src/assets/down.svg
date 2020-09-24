@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24.128" height="24" viewBox="0 0 24.128 24">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M0,10.647,4.58,6.032,0,1.418,1.41,0l6,6.032-6,6.032Z" transform="translate(0 7.41) rotate(-90)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="down" transform="translate(24.128 24) rotate(180)">
+    <path id="Rectangle" d="M0,0H24.128V24H0Z" fill="none"/>
+    <path id="Mask-2" data-name="Mask" d="M0,10.647,4.58,6.032,0,1.418,1.41,0l6,6.032-6,6.032Z" transform="translate(6.032 15.41) rotate(-90)" fill="#fff"/>
+    <g id="down-2" data-name="down" transform="translate(6.032 8)" clip-path="url(#clip-path)">
+      <g id="_Color" data-name="↳ 🎨Color" transform="translate(-6.032 -8)">
+        <path id="_Color-2" data-name="↳ 🎨Color" d="M4,0H20.128a4,4,0,0,1,4,4V20a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" fill="#3b4256"/>
+      </g>
+    </g>
+  </g>
+</svg>

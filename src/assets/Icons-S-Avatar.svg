@@ -1,0 +1,16 @@
+<svg id="Elements_Icons_S_Avatar" data-name="Elements / Icons / S / Avatar" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Mask" d="M0,10A10,10,0,1,1,10,20,10,10,0,0,1,0,10Z" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="avatar">
+    <path id="Rectangle" d="M0,0H24V24H0Z" fill="none"/>
+    <path id="Mask-2" data-name="Mask" d="M0,10A10,10,0,1,1,10,20,10,10,0,0,1,0,10Z" transform="translate(2 2)" fill="#fff"/>
+    <g id="avatar-2" data-name="avatar" transform="translate(2 2)" clip-path="url(#clip-path)">
+      <g id="Color" transform="translate(-2 -2)">
+        <path id="Rectangle_4_Copy_11" data-name="Rectangle 4 Copy 11" d="M4,0H20a4,4,0,0,1,4,4V20a4,4,0,0,1-4,4H4a4,4,0,0,1-4-4V4A4,4,0,0,1,4,0Z" fill="#c7ccd1"/>
+      </g>
+    </g>
+  </g>
+</svg>
